@@ -1,5 +1,9 @@
 # Wallpapers
 
+***Language***
+- [🇪🇸 Spanish](./README-es.md)
+- 🇺🇸 English
+
 *All wallpapers come from different sources.*
 
 <img src="https://raw.githubusercontent.com/Qv1ko/Wallpapers/main/1.png">
