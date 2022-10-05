@@ -1,6 +1,6 @@
 # Fondos de pantalla
 
-Idioma
+***Idioma***
 - 🇪🇸 Español
 - [🇺🇸 Inglés](./README.md)
 
