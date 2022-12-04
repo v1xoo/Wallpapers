@@ -6,9 +6,9 @@ Here you will find the wallpapers used by me.
 - 🇺🇸 **English**
 
 ## Wallpapers list
-![Wallpaper1](./1.png)
-![Wallpaper2](./2.png)
-![Wallpaper3](./3.png)
+![Wallpaper1](./wallpapers/1.png)
+![Wallpaper2](./wallpapers/2.png)
+![Wallpaper3](./wallpapers/3.png)
 
 ## Source of the wallpapers
 * [Wallhaven](https://wallhaven.cc)
