@@ -1,11 +1,14 @@
 # Wallpapers
+Here you will find the wallpapers used by me.
 
-***Language***
+### README language
 - [🇪🇸 Spanish](./README-es.md)
-- 🇺🇸 English
+- 🇺🇸 **English**
 
-*All wallpapers come from different sources.*
+## Wallpapers list
+![Wallpaper1](./1.png)
+![Wallpaper2](./2.png)
+![Wallpaper3](./3.png)
 
-<img src="https://raw.githubusercontent.com/Qv1ko/Wallpapers/main/1.png">
-<img src="https://raw.githubusercontent.com/Qv1ko/Wallpapers/main/2.png">
-<img src="https://raw.githubusercontent.com/Qv1ko/Wallpapers/main/3.png">
+## Source of the wallpapers
+* [Wallhaven](https://wallhaven.cc)
