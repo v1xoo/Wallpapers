@@ -2,8 +2,8 @@
 Here you will find the wallpapers used by me.
 
 ### README language
-- [🇪🇸 Spanish](./README.md)
-- 🇺🇸 **English**
+* [🇪🇸 Spanish](./README.md)
+* 🇺🇸 **English**
 
 ## Wallpapers list
 ![Wallpaper 1](./wallpapers/1.png)
