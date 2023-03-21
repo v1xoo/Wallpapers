@@ -2,8 +2,8 @@
 Aquí encontrarás los fondos de pantalla utilizados por mí.
 
 ### Idioma del README
-* 🇪🇸 **Español**
-* 🇺🇸 [Inglés](./README-en.md)
+- 🇪🇸 **Español**
+- 🇺🇸 [Inglés](./README-en.md)
 
 ## Lista de fondos de pantalla
 ![Fondo de pantalla 1](./wallpapers/1.png)
@@ -16,4 +16,4 @@ Aquí encontrarás los fondos de pantalla utilizados por mí.
 ![Fondo de pantalla 8](./wallpapers/8.png)
 
 ## Fuente de los fondos de pantalla
-* [wallhaven](https://wallhaven.cc)
+- [wallhaven](https://wallhaven.cc)
