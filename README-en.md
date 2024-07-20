@@ -15,6 +15,7 @@ Here you will find the wallpapers used by me.
 ![Wallpaper 7](./wallpapers/7.png)
 ![Wallpaper 8](./wallpapers/8.png)
 ![Wallpaper 9](./wallpapers/9.png)
+![Wallpaper 10](./wallpapers/10.png)
 
 ## Source of the wallpapers
 - [wallhaven](https://wallhaven.cc)
