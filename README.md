@@ -15,6 +15,7 @@ Aquí encontrarás los fondos de pantalla utilizados por mí.
 ![Fondo de pantalla 7](./wallpapers/7.png)
 ![Fondo de pantalla 8](./wallpapers/8.png)
 ![Fondo de pantalla 9](./wallpapers/9.png)
+![Fondo de pantalla 10](./wallpapers/10.png)
 
 ## Fuente de los fondos de pantalla
 - [wallhaven](https://wallhaven.cc)
